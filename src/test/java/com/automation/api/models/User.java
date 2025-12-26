@@ -30,7 +30,7 @@ public class User {
     @JsonProperty("mobile_number")
     private String mobileNumber;
 
-    // Constructor vacío
+    // Constructor
     public User() {
     }
 
